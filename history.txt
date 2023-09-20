@@ -1,0 +1,500 @@
+   54  git pull origin task/2 
+   55  git fetch origin
+   56  git rebase origin/task/2
+   57  git push origin task/2
+   58  git checkout main
+   59  exit
+   60  cd desktop
+   61  ls
+   62  cd Zaid-Akhalwaya-219-level-1-programming-katas-python/
+   63  git pull
+   64  git merge --abort
+   65  ls
+   66  git add .
+   67  ls
+   68  git statues
+   69  git status
+   70  git ls
+   71  ls
+   72  git add task2.py
+   73  git status
+   74  git checkout main
+   75  ls
+   76  git pull
+   77  git checkout task/2
+   78  ls
+   79  git add .
+   80  code test2.py
+   81  ls
+   82  code task2.py
+   83  git branch
+   84  git pull origin task/2
+   85  ls
+   86  code task2/py
+   87  code task2.py
+   88  git add .
+   89  git commit -m"changes made"
+   90  git push origin task/2
+   91  git checkout task/1
+   92  ls
+   93  code task1.pyt
+   94  code task1.py
+   95  git add .
+   96  git commit -m 'file added"
+   97  git push origin task/1
+   98  ls
+   99  exit
+  100  ls
+  101  cd desktop 
+  102  ls
+  103  cd  Zaid-Akhalwaya-219-level-1-programming-katas-python/
+  104  git add .
+  105  git commit -m"file added"
+  106  code task1.py
+  107  git status
+  108  git pull
+  109  git checkout 
+  110  git checkout main
+  111  code task1.py
+  112  git add .
+  113  git commit -m"changes made"
+  114  git push origin task/1
+  115  git status
+  116  git log
+  117  cd desktop
+  118  ls
+  119  cd desktop
+  120  ls
+  121  cd Zaid-Akhalwaya-219-level-1-programming-katas-python
+  122  git checkout main
+  123  git pull
+  124  ls
+  125  git checkout task/1
+  126  ls
+  127  code task1.py
+  128  git add .
+  129  git commit -m "testing changes"
+  130  git push
+  131  git push origin task/1
+  132  ls
+  133  code task1.py
+  134  git add .
+  135  git commit -m "Variable name changed"
+  136  git push
+  137  git push origin task/1
+  138  git pull origin task/1
+  139  git checkout main
+  140  git status
+  141  ls
+  142  git pull
+  143  ls
+  144  git checkout task/1
+  145  git status
+  146  ls
+  147  code task1.py
+  148  git add .
+  149  git commit  -m "changed"
+  150  ls
+  151  cd desktop
+  152  ls
+  153  cd  Zaid-Akhalwaya-219-level-1-programming-katas-python/
+  154  cd git pull origin task/1
+  155  git pull origin task/1
+  156  git checkout main
+  157  git merge task/1
+  158  git merge --abort
+  159  ls
+  160  git checkout task/1
+  161  ls
+  162  git merge task/1
+  163  code task1.py
+  164  cd ..
+  165  cd ls
+  166  ls
+  167  cd Umuzi code
+  168  cd Umuzi_code
+  169  cd Umuzi code
+  170  cd "Umuzi code"
+  171  ls
+  172  git clone https://github.com/Umuzi-org/Zaid-Akhalwaya-219-level-1-programming-katas-python.git
+  173  ls
+  174  cd Zaid-Akhalwaya-219-level-1-programming-katas-python/
+  175  ls
+  176  git status
+  177  git checkout task/1
+  178  git status
+  179  ls
+  180  code task1.py
+  181  git add .
+  182  git commit -m "Updated"
+  183  git push origin task/1
+  184  git merge task/1
+  185  git checkout main
+  186  git merge task/1
+  187  git status
+  188  ls
+  189  code task1.py
+  190  git add .
+  191  git commit -m "Resolved merge conflict"
+  192  git push origin task/1
+  193  git checkout task/1
+  194  ls
+  195  git add . 
+  196  git commit -m "changes made"
+  197  git push
+  198  git pull origin task/1
+  199  git checkout main
+  200  git push
+  201  git checkout task/2
+  202  ls
+  203  cod task2.py
+  204  code task2.py
+  205  git add .
+  206  git commit -m "or changed to and"
+  207  git push origin task/2
+  208  git checkout task/3
+  209  ls
+  210  code task3.py
+  211  git add . 
+  212  git comment -m "return simplified"
+  213  git commit -m "Return simplified"
+  214  git push origin task/3
+  215  git checkout task/4
+  216  ls
+  217  code task4.py
+  218  git add . 
+  219  git commit -m "removed nested loop"
+  220  git push origin task/4
+  221  git checkout task/5
+  222  ls
+  223  code task5.py
+  224  git add .
+  225  git commit -m "name changed"
+  226  git push origin task/5
+  227  git checkout task/6
+  228  ls
+  229  code task6.py
+  230  code task6.py
+  231  git add  .
+  232  got commit -m "variable name changed"
+  233  git commit -m"Variable name changed"
+  234  git push origin task/6
+  235  git checkout task/7
+  236  ls
+  237  code task7.py
+  238  git add .
+  239  git commit -m"spelling fix"
+  240  git push origin task/7
+  241  cd ..
+  242  ls
+  243  cd ..
+  244  ls
+  245  cd  Zaid-Akhalwaya-223-person-python/
+  246  ls
+  247  code person.py
+  248  ls
+  249  git add person.py
+  250  git commit -m "new method added"
+  251  git push origin person
+  252  cd desktop
+  253  ls
+  254  cd  Zaid-Akhalwaya-223-person-python/
+  255  ls
+  256  rm question_1.md
+  257  ls
+  258  code person.py
+  259  ls
+  260  code person.py
+  261  git add .
+  262  git commit -m"first commit"  
+  263  git push origin person
+  264  ls
+  265  cd ..
+  266  git clone https://github.com/Umuzi-org/Zaid-Akhalwaya-963-contentitem-
+  267  ls
+  268  cd  Zaid-Akhalwaya-963-contentitem-/
+  269  ls
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd Zaid-Akhalwaya-219-level-1-programming-katas-python/
+  274  git checkout task/4
+  275  ls
+  276  code task4.py
+  277  git checkout task/1
+  278  ls
+  279  code task1.py
+  280  git add . 
+  281  git commit -m"variables removed"
+  282  git push origin task/1
+  283  git pull
+  284  git checkout main
+  285  git pull
+  286  git checkout task/1
+  287  ls
+  288  code task1.py
+  289  git add .
+  290  git commit -m "variables delelted"
+  291  git push origin task/1
+  292  git pull origin task/1
+  293  ls
+  294  code task1.py
+  295  git add .
+  296  git commit -m"variables removed"
+  297  git push origin task/1
+  298  ls
+  299  git push -u origin main
+  300  git push -u origin task/1
+  301  git pull origin task/1
+  302  git checkout main
+  303  git merge task/1
+  304  code task1.py
+  305  git add .
+  306  git commit -m "resolved"
+  307  git push -u origin main
+  308  git checkout task/2
+  309  ;s
+  310  ls
+  311  code task2.py
+  312  git checkout main
+  313  git add .
+  314  git commit -m "Updated"
+  315  git push origin task/2
+  316  git pull origin task/2
+  317  ls
+  318  code task2.py
+  319  git pull origin task/2
+  320  git push -u origin task/2
+  321  git pull 
+  322  git checkout main 
+  323  git abort merge
+  324  git --abort merge
+  325  git merge task/2
+  326  ls
+  327  git add . 
+  328  git commit -m "Updated"
+  329  git merge origin task/2
+  330  git checkout task/2
+  331  git checkout task/3
+  332  ls
+  333  code task3.py
+  334  git add .
+  335  git commit -m "extra call function"
+  336  git push origin task/3
+  337  git pull origin task/3
+  338  ls
+  339  code task3.py
+  340  git add . 
+  341  git commit -m "extra function called"
+  342  git push
+  343  git push origin task/3
+  344  git checkout task/4
+  345  ls
+  346  git pull
+  347  git pull origin task/4
+  348  ls
+  349  code task5.py
+  350  code task4.py
+  351  git add .
+  352  git commit -m "new variable"
+  353  git push origin task/4
+  354  git checkout task/5
+  355  ls
+  356  code task5.py
+  357  git add .
+  358  git commit -m "new function call"
+  359  git pull origin task/5
+  360  code task5.py
+  361   git add .
+  362  git push origin task/5
+  363  git checkout task/2
+  364  git pull origin task/2
+  365  code task2.py
+  366  git add .
+  367  git commit -m "variables changed"
+  368  git push origin task/2
+  369  git checkout task/6
+  370  git pull origin task/6
+  371  ....
+  372  code task6.py
+  373  cd ..
+  374  pip install black
+  375  ls
+  376  cd Zaid-Akhalwaya-219-level-1-programming-katas-python
+  377  git pull origin task
+  378  git pull origin task/6
+  379  d"
+  380  ls
+  381  ls 
+  382  cd desktop 
+  383  ls
+  384  cd desktop
+  385  ls 
+  386  cd  Zaid-Akhalwaya-219-level-1-programming-katas-python
+  387  ls
+  388  git pull origin task/6
+  389  ls
+  390  code task6.py
+  391  git add .
+  392  git commit -m " black function used"
+  393  git push origin task/6
+  394  git checkout task/7
+  395  ls
+  396  code task7.py
+  397  git pull origin task/7
+  398  code task7.py
+  399  git add .
+  400  git commit -m "variable name changed"
+  401  git push origin task/7
+  402  cd desktop
+  403  ls
+  404  cd  Zaid-Akhalwaya-963-contentitem-
+  405  git checkout -b contentitem
+  406  git pull origin contentitem
+  407  ls
+  408  git add .
+  409  git commit -m "first commit"
+  410  git push origin contentitem
+  411  cd ..
+  412  ls
+  413  cd  Zaid-Akhalwaya-223-person-python
+  414  ls
+  415  code person.py
+  416  git add .
+  417  git commit -m "string updated"
+  418  git push origin person
+  419  cd desktop
+  420  mkdir git-basic-exercises
+  421  ls
+  422  cd git-basic-exercises
+  423  ls
+  424  ls -a
+  425  git init
+  426  ls -a
+  427  ls
+  428  git status
+  429  touch README.md
+  430  ls -a
+  431  git status
+  432  git log
+  433  git status
+  434  git add .
+  435  git status
+  436  git status
+  437  git commit -m "initial commit"
+  438  git log
+  439  q
+  440  nano README.md
+  441  cat README.md
+  442  git status
+  443  git add .
+  444  git commit -m"second commit"
+  445  nano README.md
+  446  git add .
+  447  git commit -m"third commit"
+  448  git log
+  449  git checkout f64b421b8187f0226302324656df2d55db7d0ecd
+  450  cat README.md
+  451  git checkout main
+  452  cat README.md
+  453  git checkout master
+  454  cat README.md
+  455  git branch
+  456  git fetch
+  457  git branch
+  458  git branch -m master main
+  459  git branch
+  460  git checkout -b milkshake-flavours
+  461  git branch
+  462  nano milkshakes.md
+  463  git status
+  464  git add .
+  465  git commit -m "added initial flavours"
+  466  git log
+  467  git checkout main
+  468  git checkout -b history
+  469  git log
+  470  git branch
+  471  history > history.txt
+  472  git commit -m "added history"
+  473  git add .
+  474  git commit -m"added history"
+  475  git log
+  476  git checkout milkshake-flavours
+  477  git log
+  478  ls
+  479  nano README.md
+  480  git add .
+  481  git commit -m "random readme changes"
+  482  git checkout history 
+  483  cat README.md
+  484  rm README.md
+  485  echo "booya" > README.md
+  486  git add .
+  487  git commit -m"rework readme"
+  488  git checkout main
+  489  ls
+  490  git log
+  491  git checkout milkshake-flavours
+  492  ls
+  493  git log
+  494  git checkout history
+  495  ls
+  496  git log
+  497  mkdir git-basic-exercises
+  498  ls
+  499  rm git-basic-exercises
+  500  rm -r git-basic-exercises
+  501  cd desktop
+  502  ls
+  503  mkdir rm -r git-basic-exercises
+  504  mkdir git-basic-exercises
+  505  cd git-basic-exercises
+  506  cd../
+  507  git init
+  508  ls -a
+  509  git status
+  510  touch README.md
+  511  ls -a
+  512  git status
+  513  git log
+  514  git add README.md
+  515  git status
+  516  git reset
+  517  git status
+  518  git add README.md
+  519  git status
+  520  git commit -m "initial commit"
+  521  git log
+  522  nano README.md 
+  523  cat README.md
+  524  git status
+  525  git add README.md 
+  526  git commit -m "second commit"
+  527  nano README.md 
+  528  git commit -m "third commit"
+  529  git add .
+  530  git commit -m "third commit"
+  531  git log
+  532  git checkout 4704609ed974d1092b80d2e87739f1f4691375e1
+  533  cat README.md
+  534  git checkout main
+  535  git checkout master
+  536  cat README.md 
+  537  git branch
+  538  git branch -b milkshake-flavours
+  539  git branch -b milkshake-flavours
+  540  git checkout -b milkshake-flavours
+  541  git branch
+  542  nano milkshakes.md
+  543  git statud
+  544  git status
+  545  git add .
+  546  git commit -m"added initial flavours"
+  547  git log
+  548  git checkout
+  549  git checkout master
+  550  git checkout -b history
+  551  git log
+  552  git branch
+  553  history > history.txt
