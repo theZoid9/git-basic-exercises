@@ -1,1 +1,3 @@
-green blue pink
+Chocolate
+Strawberry
+Bubblegum
